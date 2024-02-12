@@ -1,4 +1,4 @@
-Hi 👋 My name is Botnie Data
+Hi My name is Botnie Data
 ============================
 
 IT Procurement, Data Analyst, Data Engineer
