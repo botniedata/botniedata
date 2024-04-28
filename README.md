@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+### Technologies
+---
+![Static Badge](https://img.shields.io/badge/PowerBI-YELLOW?style=flat&logo=PowerBI&color=white)
+
+
+
+
+
 <!--
 **botniedata/botniedata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
