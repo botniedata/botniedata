@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there I'm Joseph Antonio
 
 
 ### Technologies
 ---
-![Static Badge](https://img.shields.io/badge/PowerBI-YELLOW?style=flat&logo=PowerBI&color=white)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-sql?style=flat&logo=postgresql&logoColor=white&labelColor=blue&color=white)
+![Static Badge](https://img.shields.io/badge/PowerBI-python?style=flat&logo=powerbi&logoColor=white&labelColor=yellow&color=white)
+![Static Badge](https://img.shields.io/badge/Python-python?style=flat&logo=Python&logoColor=white&labelColor=blue&color=white)
+![Static Badge](https://img.shields.io/badge/Google%20Workspace-google?style=flat&logo=Google&logoColor=white&labelColor=green&color=white)
+![Static Badge](https://img.shields.io/badge/Linux-x?style=flat&logo=Linux&logoColor=Blue&labelColor=blue&color=white)
+
 
 
 
