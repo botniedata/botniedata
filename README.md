@@ -8,6 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-python?style=flat&logo=Python&logoColor=white&labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Google%20Workspace-google?style=flat&logo=Google&logoColor=white&labelColor=green&color=white)
 ![Static Badge](https://img.shields.io/badge/Linux-x?style=flat&logo=Linux&logoColor=Blue&labelColor=blue&color=white)
+![Static Badge](https://img.shields.io/badge/Microsoft%20Fabric-x?style=flat&logo=Microsoft&logoColor=Blue&labelColor=yellow&color=white)
 
 
 
