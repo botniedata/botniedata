@@ -3,12 +3,29 @@
 
 ### Technologies
 ---
-![Static Badge](https://img.shields.io/badge/PostgreSQL-sql?style=flat&logo=postgresql&logoColor=white&labelColor=blue&color=white)
-![Static Badge](https://img.shields.io/badge/PowerBI-python?style=flat&logo=powerbi&logoColor=white&labelColor=yellow&color=white)
-![Static Badge](https://img.shields.io/badge/Python-python?style=flat&logo=Python&logoColor=white&labelColor=blue&color=white)
-![Static Badge](https://img.shields.io/badge/Google%20Workspace-google?style=flat&logo=Google&logoColor=white&labelColor=green&color=white)
-![Static Badge](https://img.shields.io/badge/Linux-x?style=flat&logo=Linux&logoColor=Blue&labelColor=blue&color=white)
-![Static Badge](https://img.shields.io/badge/Microsoft%20Fabric-x?style=flat&logo=Microsoft&logoColor=Blue&labelColor=yellow&color=white)
+<!--microsoft fabric-->
+
+![Static Badge](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=24292e&labelColor=white) 
+![Static Badge](https://img.shields.io/badge/GitHub-3e2c00?style=flat-square&logo=git&logoColor=3e2c00&labelColor=white)
+
+![Static Badge](https://img.shields.io/badge/Microsoft%20Fabric-00A3EE?style=flat-square&logo=microsoft&logoColor=00A3EE&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=4285F4&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Linux%20Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=000000&labelColor=white)
+
+![Static Badge](https://img.shields.io/badge/Power%20BI-f6d958?style=flat-square&logo=powerbi&logoColor=f6d958&labelColor=white)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=0064a5&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Python-4584B6?style=flat-square&logo=Python&logoColor=4584B6&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Google%20Looker-DB4437?style=flat-square&logo=looker&logoColor=DB4437&labelColor=white)
+
+
+### Softwares Applications
+---
+![Static Badge](https://img.shields.io/badge/Quickbooks-14324f?style=flat-square&logo=quickbooks&logoColor=14324f&labelColor=white)
+
+
+
+
+
 
 
 
